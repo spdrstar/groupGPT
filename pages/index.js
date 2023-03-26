@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>UIKit with NextJS 13</title>
+        <title>GroupGPT Chat</title>
         <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
