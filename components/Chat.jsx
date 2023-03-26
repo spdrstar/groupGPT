@@ -1,5 +1,5 @@
 import SendbirdApp from '@sendbird/uikit-react/App';
-const APP_ID = "2D7B4CDB-932F-4082-9B09-A1153792DC8D";
+const APP_ID = "9C0ADFA0-D770-4092-B9DD-340B4721CB7C";
 const USER_ID = "sendbirdian-200720";
 
 const Chat = () => (
